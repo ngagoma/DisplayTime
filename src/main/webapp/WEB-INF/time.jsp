@@ -6,7 +6,7 @@
 <head>
 	<meta charset="ISO-8859-1">
 	<title>Insert title here</title>
-	<script type="text/javascript" src="js/timeDisplay.js" defer></script>
+	<script type="text/javascript" src="js/time.js" defer></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>

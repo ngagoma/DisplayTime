@@ -5,7 +5,7 @@
 <head>
 	<meta charset="ISO-8859-1">
 	<title>Insert title here</title>
-	<script type="text/javascript" src="js/dateDisplay.js" defer></script>
+	<script type="text/javascript" src="js/date.js" defer></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
